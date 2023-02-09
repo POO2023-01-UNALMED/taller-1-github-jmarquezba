@@ -1,0 +1,1 @@
+Como añadimos contenido a la carpeta ahora el repositorio si la identifica y permite hacer commit
