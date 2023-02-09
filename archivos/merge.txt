@@ -2,3 +2,6 @@ Juan Miguel Màrquez Baròn
 18 años
 Mi aspiraciòn en POO es aprender sobre las aplicaciones que puedo dar a la materia para un futuro laboral y obtener la fundamentaciòn necesaria para las pròximas materias de
 mi carrera
+
+Debemos ser cuidadosos con la ediciòn de archivos ya que si no trabajamos de forma organizada y con un rumbo claro podemos crear incompatibilidades dentro del repositorio 
+y dañar su funcionamiento
